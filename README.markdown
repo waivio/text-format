@@ -9,17 +9,11 @@ We are happy to receive bug reports, fixes, documentation enhancements,
 and other improvements.
 
 Please report bugs via the
-[github issue tracker](https://github.com/bos/text-format/issues).
+[github issue tracker](https://github.com/haskell/text-format/issues).
 
-Master [git repository](https://github.com/bos/text-format):
+Master [git repository](https://github.com/haskell/text-format):
 
-* `git clone git://github.com/bos/text-format.git`
-
-There's also a [Mercurial mirror](https://bitbucket.org/bos/text-format):
-
-* `hg clone https://bitbucket.org/bos/text-format`
-
-(You can create and contribute changes using either git or Mercurial.)
+* `git clone https://github.com/haskell/text-format.git`
 
 Authors
 -------
